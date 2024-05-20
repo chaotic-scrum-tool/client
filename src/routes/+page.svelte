@@ -1,5 +1,7 @@
 <script>
-
+ import { pageTitle } from '$lib/stores/pageTitle';
+  
+  pageTitle.set("Chaotic Scrum Tool")
 </script>
 
 <div >
