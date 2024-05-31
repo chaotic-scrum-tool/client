@@ -7,7 +7,7 @@
   <Accordion class="navbar-accordion">
     <!-- svelte-ignore a11y-missing-attribute -->
     <!-- Using <a> to match styling -->
-    <a slot="header">Story Point Estimations</a>
+    <a slot="header">Scrum Poker</a>
     <div slot="content">
       <a href="/estimations/leader">Leader</a>
       <a href="/estimations/member">Member</a>

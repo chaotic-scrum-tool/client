@@ -1,5 +1,5 @@
 <script>
   import { pageTitle } from '$lib/stores/pageTitle';
   
-  pageTitle.set("Story Point Estimations - Leader")
+  pageTitle.set("Scrum Poker - Leader")
 </script>
