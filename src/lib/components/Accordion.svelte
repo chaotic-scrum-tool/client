@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { slide } from 'svelte/transition';
 	import DownArrow from "$lib/assets/keyboard_down_arrow.svg";
 	import UpArrow from "$lib/assets/keyboard_up_arrow.svg";

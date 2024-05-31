@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import Accordion from "$lib/components/Accordion.svelte";
 </script>
 
